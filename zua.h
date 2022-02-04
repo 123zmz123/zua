@@ -33,7 +33,7 @@
 #define ZUA_TNIL 5
 #define ZUA_TTABLE 6
 #define ZUA_TFUNCTION 7
-#define ZUA_THREAD 8
+#define ZUA_TTHREAD 8
 #define ZUA_TNONE 9
 
 #define ZUA_MINSTACK 20
