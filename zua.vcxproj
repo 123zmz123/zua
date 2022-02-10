@@ -149,8 +149,6 @@
     <ClCompile Include="zinterface.c" />
     <ClCompile Include="zmem.c" />
     <ClCompile Include="zstate.c" />
-    <ClCompile Include="zuaobject.c" />
-    <ClCompile Include="zuastate.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

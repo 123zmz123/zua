@@ -32,12 +32,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="zuaobject.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="zuastate.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="main.c">
       <Filter>源文件</Filter>
     </ClCompile>
