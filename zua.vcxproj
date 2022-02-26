@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="zdo.h" />
     <ClInclude Include="zinterface.h" />
     <ClInclude Include="zmem.h" />
     <ClInclude Include="zua.h" />
@@ -146,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
+    <ClCompile Include="zdo.c" />
     <ClCompile Include="zinterface.c" />
     <ClCompile Include="zmem.c" />
     <ClCompile Include="zstate.c" />

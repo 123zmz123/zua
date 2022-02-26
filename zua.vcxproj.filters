@@ -30,6 +30,9 @@
     <ClInclude Include="zinterface.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="zdo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c">
@@ -42,6 +45,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="zinterface.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zdo.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
